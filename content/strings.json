@@ -1,0 +1,10 @@
+{
+  "name": {
+    "type": "name",
+    "value": "Dev Registry"
+  },
+  "description": {
+    "type": "meta",
+    "value": "DevRegistry is a local-first container registry and devcontainer build system designed to streamline development workflows. It provides a robust, OCI-compatible environment for building, storing, and managing container images directly on your local machine, while also offering seamless integration with Git, devcontainers, and advanced traceability features."
+  }
+}
